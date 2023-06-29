@@ -63,3 +63,7 @@ hr {
     background-color: lightgray;
     height: 1px;
 }
+
+#mainLeft {
+    border-right: 1px solid lightgray;
+}
