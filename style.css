@@ -40,7 +40,8 @@ color: #0729c1;
     padding: 1em 0;
 }
 
-h2 {
-    font-size: 1.5em;
-    padding-bottom: 1em;
+main { 
+    display: grid;
+    grid-template-columns: 40% 60%;
+    margin-top: 3em;
 }
