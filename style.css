@@ -68,7 +68,7 @@ hr {
     border-right: 1px solid lightgray;
 }
 
-body {
+main {
     max-width: 970px;
     margin: auto;
 }
