@@ -1,5 +1,7 @@
-let thankstring='Thank you for sending me a message!';
+let message;
+message = 'Thank you for sending me a message!';
 
-function thankyou() {
-    alert(thankstring);
+
+function alertmessage() {
+    alert(message);
 }
