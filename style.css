@@ -67,3 +67,8 @@ hr {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+
+.resume_body {
+    max-width: 960px;
+    margin: auto;
+}
