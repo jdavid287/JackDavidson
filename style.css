@@ -45,3 +45,21 @@ main {
     grid-template-columns: 40% 60%;
     margin-top: 3em;
 }
+
+section {
+    margin: auto 1em 4em 2em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
