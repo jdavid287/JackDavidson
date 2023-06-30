@@ -73,3 +73,6 @@ main {
     margin: auto;
 }
 
+form {
+    align-items: center;
+}
