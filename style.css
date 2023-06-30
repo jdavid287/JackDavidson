@@ -124,12 +124,13 @@ form button {
     display: flex;
     align-self: center;
     margin-left: 50px;
+    width: 45%;
 }
 
 .linkedin p {
     display: inline-flex;
     margin-left: 50px;
-
+    width: 45%;
 }
 
 
