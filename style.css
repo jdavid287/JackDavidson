@@ -135,10 +135,14 @@ form button {
     width: 45%;
 }
 
-.container {
-    display: flex;
+.left {
+    float: left;
+    width: 45%;
 }
-
+.right {
+    float: right;
+    width: 45%;
+}
 
 
 
