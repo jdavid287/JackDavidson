@@ -111,6 +111,7 @@ main {
 
 .email {
     display: flex;
-    
+    width: 50%;
+    float: right;
 }
     
