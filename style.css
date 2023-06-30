@@ -98,20 +98,18 @@ main {
     margin-left: 10px;
     width: 50%;
 }
-
-.left {
-    float: left;
-    width: 50%;
-}
-.right {
-    float: right;
-    width: 50%;
-    display: inline-flex;
-}
-
-.email {
+ 
+.contact {
     display: flex;
-    width: 50%;
-    float: right;
-}
-    
+  }
+  
+  .left {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .right {
+    flex: 1;
+    margin-left: 10px;
+  }
+  
