@@ -82,7 +82,7 @@ form.email {
   }
   
   form.email div {
-    width: 150px;
+    width: 1000px;
   }
   
   form.email h2 {
@@ -105,6 +105,7 @@ form.email {
   }
   
   form.email button {
+    border-color: #000000;
     background-color: #ffffff;
     color: #044a0a;
     padding: 10px 20px;
