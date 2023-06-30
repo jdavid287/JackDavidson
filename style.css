@@ -122,6 +122,7 @@ form button {
 }
 
 .linkedin p {
+    display: inline-flex;
     margin-left: auto;
 }
 
