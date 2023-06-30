@@ -109,6 +109,10 @@ main {
     display: inline-flex;
 }
 
+section {
+    display: flex;
+}
+
 form {
     display: inline-flex;
     margin: 10px;
