@@ -110,6 +110,9 @@ form button {
     cursor: pointer;
 }
 
+#link_logo {
+    resize: both;
+}
 
 
 
