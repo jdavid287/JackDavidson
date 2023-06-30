@@ -112,4 +112,39 @@ main {
     flex: 1;
     margin-left: 10px;
   }
+
+  form.email {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  form.email h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  form.email label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form.email input[type="text"],
+  form.email input[type="email"],
+  form.email textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  form.email button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
   
