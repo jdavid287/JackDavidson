@@ -108,3 +108,9 @@ main {
     width: 50%;
     display: inline-flex;
 }
+
+.email {
+    display: flex;
+    
+}
+    
