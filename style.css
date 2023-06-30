@@ -110,10 +110,10 @@ form button {
     cursor: pointer;
 }
 
-#link_logo {
-    resize: both 15px;
+.logo {
+    width: 100%;
+    padding: 3rem;
 }
-
 
 
 
