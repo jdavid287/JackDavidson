@@ -114,3 +114,6 @@ form.email {
     cursor: pointer;
   }
   
+  #jack {
+    border-radius: 50%;
+}
