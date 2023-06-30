@@ -109,7 +109,7 @@ main {
     display: inline-flex;
 }
 
-section {
+.contact {
     display: flex;
 }
 
