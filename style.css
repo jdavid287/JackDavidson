@@ -113,11 +113,11 @@ form button {
 .logo {
     width: 200px;
     height: auto;
-    margin-right: 50px;
+    margin-right: 10px;
 }
 
 .connect {
-    margin-left: 50px;
+    margin-left: 10px;
     flex: 1;
 }
 
@@ -131,7 +131,7 @@ form button {
 
 .linkedin p {
     display: inline-flex;
-    margin-left: 50px;
+    margin-left: 10px;
     width: 45%;
 }
 
