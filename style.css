@@ -111,9 +111,11 @@ form button {
 }
 
 .logo {
-    width: 100%;
-    padding: 3rem;
+    width: 200px;
+    height: auto;
 }
+
+
 
 
 
