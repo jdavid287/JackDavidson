@@ -78,11 +78,11 @@ form.email {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 50vh;
   }
   
   form.email div {
-    width: 1000px;
+    width: 500px;
   }
   
   form.email h2 {
