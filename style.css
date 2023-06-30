@@ -75,6 +75,10 @@ main {
 
 form {
     margin: 50px;
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    padding: 20px;
 }
 
 form h2 {
@@ -105,3 +109,9 @@ form button {
     border-radius: 4px;
     cursor: pointer;
 }
+
+
+
+
+
+
