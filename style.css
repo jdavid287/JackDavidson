@@ -106,6 +106,7 @@ main {
 .right {
     float: right;
     width: 50%;
+    display: inline-flex;
 }
 
 
