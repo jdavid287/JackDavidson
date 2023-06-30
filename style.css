@@ -111,7 +111,7 @@ form button {
 }
 
 #link_logo {
-    resize: both;
+    resize: both 15px;
 }
 
 
