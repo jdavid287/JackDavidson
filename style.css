@@ -117,6 +117,12 @@ form button {
 
 .linkedin {
     font-size: 25px;
+    display: flex;
+    align-self: center;
+}
+
+.linkedin p {
+    margin-left: auto;
 }
 
 
