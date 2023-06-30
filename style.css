@@ -78,7 +78,7 @@ form.email {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 50vh;
+    height: 35vh;
   }
   
   form.email div {
@@ -106,7 +106,7 @@ form.email {
   
   form.email button {
     border-color: #000000;
-    background-color: #ffffff;
+    background-color: #92c9f0;
     color: #044a0a;
     padding: 10px 20px;
     border: none;
